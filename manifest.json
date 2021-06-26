@@ -1,0 +1,7 @@
+{
+  "name": "grid",
+  "description": "Grid XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "grid.glb",
+  "physics_url": "grid.bin"
+}
